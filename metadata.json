@@ -1,0 +1,6 @@
+{
+  "name": "AI Subtitles",
+  "description": "Automatic AI video subtitle generator. Create viral timed caption presets using Google Gemini and OpenAI Whisper with role-based admin panel settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
